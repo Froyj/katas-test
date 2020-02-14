@@ -3,6 +3,15 @@
   "description": "doin'loops",
   "difficulty": "Beginner",
   "time": "20 min",
+  "assets": {
+    "client": [
+      {
+        "file": "part-1",
+        "target": "part1.js",
+        "chmod": "+x"
+      }
+    ]
+  },
   "details": {
     "steps": [
       {
