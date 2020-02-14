@@ -25,6 +25,9 @@
       "text": "finish.md"
     }
   },
+  "files": [
+    "part1.js"
+  ],
   "environment": {
     "uilayout": "editor-terminal"
   },
