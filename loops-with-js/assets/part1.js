@@ -11,3 +11,4 @@ function countFrom10To0() {
 
 }
 
+console.log('hello');
