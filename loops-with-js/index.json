@@ -39,7 +39,11 @@
     "part1.js"
   ],
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "exclusionPatterns": [
+      "*test",
+      "./*"
+    ]
   },
   "backend": {
     "imageid": "ubuntu1804"

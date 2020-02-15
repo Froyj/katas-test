@@ -4,7 +4,7 @@ mkdir exercises/ && cd exercises
 
 npm init --yes
 
-echo "exercise direcctory created"
+echo "exercise directory created"
 
 echo "installing jest"
 
