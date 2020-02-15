@@ -7,7 +7,7 @@
     "client": [
       {
         "file": "part1.js",
-        "target": "/exercices/"
+        "target": "/root/exercices/"
       }
     ]
   },
@@ -40,9 +40,6 @@
   ],
   "environment": {
     "uilayout": "editor-terminal",
-    "exclusionPatterns": [
-      "./"
-    ]
   },
   "backend": {
     "imageid": "ubuntu1804"
