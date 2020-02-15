@@ -4,7 +4,7 @@
   "difficulty": "Beginner",
   "time": "20 min",
   "assets": {
-    "host01": [
+    "client": [
       {
         "file": "part1.js",
         "target": "/root/exercices/"
