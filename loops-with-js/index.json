@@ -42,7 +42,10 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/home/loops/exercises/"
+    "uieditorpath": "/home/loops/exercises/",
+    "exclusionPattern": [
+      "package*"
+    ]
   },
   "backend": {
     "imageid": "ubuntu"
