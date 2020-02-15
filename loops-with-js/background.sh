@@ -1,5 +1,5 @@
 #!/bin/bash
-cd 
+cd ../home/ 
 
 mkdir exercises/
 
