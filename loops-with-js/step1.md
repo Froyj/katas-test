@@ -7,4 +7,4 @@ Objectif 1 : manipuler les paramètres de la boucles:
 
 Tu peux lancer le test via cette commande :
 
-`node part1.js`{{execute T1}}
+`node exercises/part1.js`{{execute T1}}
