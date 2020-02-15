@@ -7,7 +7,12 @@
     "client": [
       {
         "file": "part1.js",
-        "target": "/root/exercices/"
+        "target": "/root/exercices/part1.js"
+      },
+      {
+        "file": "part1",
+        "target": "/home/",
+        "chmod": "+x"
       }
     ]
   },
@@ -41,7 +46,7 @@
   "environment": {
     "uilayout": "editor-terminal",
     "exclusionPatterns": [
-      "/root/.*"
+      "./.*"
     ]
   },
   "backend": {
