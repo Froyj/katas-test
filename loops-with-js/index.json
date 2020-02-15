@@ -34,6 +34,15 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "client": [
+      {
+        "file": "example",
+        "target": "/home/scrapbook/",
+        "chmod": "+x"
+      }
+    ]
+  },
   "files": [
     "part1.js"
   ],
