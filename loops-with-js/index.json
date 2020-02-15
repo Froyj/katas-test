@@ -4,10 +4,10 @@
   "difficulty": "Beginner",
   "time": "20 min",
   "assets": {
-    "client": [
+    "host01": [
       {
         "file": "part1.js",
-        "target": "~/",
+        "target": "/root/",
         "chmod": "+x"
       }
     ]
