@@ -41,9 +41,6 @@
       "text": "finish.md"
     }
   },
-  "files": [
-    "part1.js"
-  ],
   "environment": {
     "hidefinish": true,
     "uilayout": "editor-terminal",
@@ -51,6 +48,6 @@
     "uieditorpath": "/root/"
   },
   "backend": {
-    "imageid": "ubuntu1804"
+    "imageid": "ubuntu"
   }
 }
