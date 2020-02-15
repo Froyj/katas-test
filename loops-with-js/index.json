@@ -45,7 +45,7 @@
     "uisettings": "javascript",
     "uieditorpath": "/root/",
     "exclusionPatterns": [
-      "./.*"
+      // "./.*"
     ]
   },
   "backend": {
