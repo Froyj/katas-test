@@ -9,4 +9,4 @@ function countFrom0To10() {
   return str;
 }
 
-countFrom0To10();
+module.exports = { countFrom0To10 };
