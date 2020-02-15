@@ -9,4 +9,4 @@ Tu peux lancer le test via cette commande :
 
 `node part1.js`{{execute T1}}
 
-`npm jest`{{execute T1}}
+`npx jest`{{execute T1}}
