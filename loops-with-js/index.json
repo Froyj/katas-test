@@ -6,13 +6,8 @@
   "assets": {
     "client": [
       {
-        "file": "part1",
-        "target": "/root/exercices/",
-        "chmod": "+x"
-      },
-      {
-        "file": "part1",
-        "target": "/home/",
+        "file": "part1.js",
+        "target": "~/",
         "chmod": "+x"
       }
     ]
@@ -45,7 +40,10 @@
     "part1.js"
   ],
   "environment": {
+    "hidefinish": true,
     "uilayout": "editor-terminal",
+    "uisettings": "javascript",
+    "uieditorpath": "/root/",
     "exclusionPatterns": [
       "./.*"
     ]
