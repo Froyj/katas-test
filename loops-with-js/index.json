@@ -6,7 +6,7 @@
   "assets": {
     "client": [
       {
-        "file": "part1.js",
+        "file": "part1",
         "target": "/root/exercices/",
         "chmod": "+x"
       },
