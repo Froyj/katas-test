@@ -43,7 +43,7 @@
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "uieditorpath": "/home/loops/exercises/",
-    "exclusionPattern": [
+    "exclusionPatterns": [
       "./package*"
     ]
   },
