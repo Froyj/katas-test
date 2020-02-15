@@ -6,8 +6,8 @@
   "assets": {
     "host01": [
       {
-        "file": "*",
-        "target": "/root"
+        "file": "part1.js",
+        "target": "/root/exercices/"
       }
     ]
   },
