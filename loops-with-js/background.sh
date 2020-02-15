@@ -1,8 +1,9 @@
 #!/bin/bash
 cd ../home/ 
 
-mkdir exercises/
-
+mkdir loops
+cd loops
+mkdir exercises
 cd exercises
 
 npm init --yes

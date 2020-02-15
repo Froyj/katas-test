@@ -7,8 +7,8 @@
     "assets": {
       "host01": [
         {
-          "file": "part1.js",
-          "target": "/root/"
+          "file": "part*",
+          "target": "/home/loops/exercises/"
         }
       ]
     },
@@ -42,7 +42,7 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/root/"
+    "uieditorpath": "/home/loops/exercises/"
   },
   "backend": {
     "imageid": "ubuntu"
