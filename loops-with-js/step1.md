@@ -9,4 +9,4 @@ Tu peux lancer le test via cette commande :
 
 `node exercises/part1.js`{{execute T1}}
 
-`cat /root/exercises/part1.js`{{execute T1}}
+`cat /home/exercises/part1.js`{{execute T1}}
