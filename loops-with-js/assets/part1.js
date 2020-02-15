@@ -2,8 +2,9 @@
 
 function countFrom0To10() {
   // Write your code inside the brackets
+  let str = "";
   for (let i = 0; i < 10; i++) {
-    console.log(i)
+    str = str + i
   }
 }
 
