@@ -7,7 +7,7 @@
     "client": [
       {
         "file": "part1.js",
-        "target": "/home/exercices/"
+        "target": "/root/exercices/"
       }
     ]
   },
