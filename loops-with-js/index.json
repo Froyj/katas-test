@@ -41,7 +41,6 @@
   "environment": {
     "uilayout": "editor-terminal",
     "exclusionPatterns": [
-      "*test",
       "./*"
     ]
   },

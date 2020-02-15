@@ -1,6 +1,10 @@
 #!/bin/bash
 
-mkdir exercises/ && cd exercises
+cd ../
+
+mkdir exercises/
+
+cd exercises
 
 npm init --yes
 
