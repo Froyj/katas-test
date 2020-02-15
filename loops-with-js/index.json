@@ -3,21 +3,15 @@
   "description": "doin'loops",
   "difficulty": "Beginner",
   "time": "20 min",
-  "assets": {
-    "client": [
-      {
-        "file": "part1.js",
-        "target": "/root/"
-      }
-    ],
-    "host01": [
-      {
-        "file": "part1.js",
-        "target": "/root/"
-      }
-    ]
-  },
   "details": {
+    "assets": {
+      "host01": [
+        {
+          "file": "part1.js",
+          "target": "/root/"
+        }
+      ]
+    },
     "steps": [
       {
         "title": "Step 1",
