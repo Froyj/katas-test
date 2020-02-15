@@ -7,9 +7,9 @@ Objectif 1 : manipuler les paramètres de la boucles:
 
 Tu peux lancer le test via cette commande :
 
-`node exercises/part1.js`{{execute T1}}
+`node /home/loops/exercises/part1.js`{{execute T1}}
 
-`cat /home/exercises/part1.js`{{execute T1}}
+`cat /home/loops/exercises/part1.js`{{execute T1}}
 
 
 <pre class="file" data-filename="app.js" data-target="replace">var http = require('http');
