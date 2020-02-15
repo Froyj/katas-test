@@ -39,7 +39,7 @@
     "part1.js"
   ],
   "environment": {
-    "uilayout": "editor-terminal",
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "ubuntu1804"
