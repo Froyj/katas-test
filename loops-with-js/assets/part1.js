@@ -6,6 +6,7 @@ function countFrom0To10() {
   for (let i = 0; i < 10; i++) {
     str = str + i
   }
+  return str;
 }
 
 countFrom0To10();
