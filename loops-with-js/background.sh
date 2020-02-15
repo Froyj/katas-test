@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd ../
-
 mkdir exercises/
 
 cd exercises

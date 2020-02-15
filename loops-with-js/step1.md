@@ -8,3 +8,5 @@ Objectif 1 : manipuler les paramètres de la boucles:
 Tu peux lancer le test via cette commande :
 
 `node exercises/part1.js`{{execute T1}}
+
+`cat /root/exercises/part1.js`{{execute T1}}
