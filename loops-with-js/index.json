@@ -41,7 +41,7 @@
   "environment": {
     "uilayout": "editor-terminal",
     "exclusionPatterns": [
-      ".*"
+      "/root/.*"
     ]
   },
   "backend": {
