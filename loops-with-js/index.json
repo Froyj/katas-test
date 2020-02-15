@@ -7,13 +7,13 @@
     "client": [
       {
         "file": "part1.js",
-        "target": "~/"
+        "target": "/root/"
       }
     ],
     "host01": [
       {
         "file": "part1.js",
-        "target": "~/"
+        "target": "/root/"
       }
     ]
   },
