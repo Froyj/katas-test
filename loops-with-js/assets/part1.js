@@ -1,14 +1,10 @@
 // Write a loop that display every numbers between 0 and 10 (included) in ASCENDING order
 
-function sayHello() {
-
+function countFrom0To10() {
+  // Write your code inside the brackets
+  for (let i = 0; i < 10; i++) {
+    console.log(i)
+  }
 }
 
-// Write a loop that display every numbers between 0 and 10 (included) in ASCENDING order
-
-function countFrom10To0() {
-  //write your code here
-
-}
-
-module.exports = { countFrom0To10, countFrom10To0 }
+countFrom0To10();
