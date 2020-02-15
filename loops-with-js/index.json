@@ -4,11 +4,10 @@
   "difficulty": "Beginner",
   "time": "20 min",
   "assets": {
-    "client": [
+    "host01": [
       {
-        "file": "part-1",
-        "target": "/root",
-        "chmod": "+x"
+        "file": "*",
+        "target": "/root"
       }
     ]
   },
@@ -33,15 +32,6 @@
     "finish": {
       "text": "finish.md"
     }
-  },
-  "assets": {
-    "client": [
-      {
-        "file": "example",
-        "target": "/home/scrapbook/",
-        "chmod": "+x"
-      }
-    ]
   },
   "files": [
     "part1.js"
