@@ -44,7 +44,8 @@
     "uisettings": "javascript",
     "uieditorpath": "/home/loops/exercises/",
     "exclusionPatterns": [
-      "./package*"
+      "./package*",
+      "*test"
     ]
   },
   "backend": {
