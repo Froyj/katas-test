@@ -43,10 +43,7 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/root/",
-    "exclusionPatterns": [
-      // "./.*"
-    ]
+    "uieditorpath": "/root/"
   },
   "backend": {
     "imageid": "ubuntu1804"
