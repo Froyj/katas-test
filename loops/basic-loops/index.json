@@ -8,11 +8,11 @@
       "host01": [
         {
           "file": "counter.js",
-          "target": "/home/exercises/"
+          "target": "/root/"
         },
         {
           "file": "counter.test.js",
-          "target": "/home/exercises/"
+          "target": "/root/"
         }
       ]
     },
