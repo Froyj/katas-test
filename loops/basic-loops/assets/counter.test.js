@@ -1,4 +1,4 @@
-const { counter } = require('./iterate-on-array');
+const { counter } = require('./counter');
 
 test('counter', () => {
   expect(counter(10)).toBe(55);
