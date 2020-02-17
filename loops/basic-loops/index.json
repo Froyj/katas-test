@@ -8,7 +8,7 @@
       "host01": [
         {
           "file": "counter.js",
-          "target": "/home/loops/exercises/"
+          "target": "/home/exercises/"
         }
       ]
     },

@@ -1,8 +1,6 @@
 #!/bin/bash
 cd ../home/ 
 
-mkdir loops
-cd loops
 mkdir exercises
 cd exercises
 
