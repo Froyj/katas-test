@@ -9,6 +9,10 @@
         {
           "file": "counter.js",
           "target": "/home/exercises/"
+        },
+        {
+          "file": "counter.test.js",
+          "target": "/home/exercises/"
         }
       ]
     },
