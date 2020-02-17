@@ -1,2 +1,2 @@
 
-cd /home/exercises/
+cd ../home/exercises/
