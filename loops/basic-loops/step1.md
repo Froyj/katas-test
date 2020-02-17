@@ -10,4 +10,4 @@ Tu peux lancer le test via cette commande :
 Tous les exercices proposés ici peuvent être résolus au moyen d'une simple loop correctement paramètrée  
 
 
-`npx jest`{{execute T1}}
+`npx jest `{{execute T1}}

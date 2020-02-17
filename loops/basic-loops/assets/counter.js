@@ -7,3 +7,6 @@ function counter(n) {
   }
   return res;
 }
+
+
+module.exports = { counter };
