@@ -1,1 +1,0 @@
-Maintenant tu sais manier une boucle for, Ce n'est pas la seul qui existe.  
