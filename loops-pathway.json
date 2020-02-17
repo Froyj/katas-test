@@ -1,0 +1,17 @@
+{
+  "title": "Loopin' everyday",
+  "description": "Consolidate your skills with loops",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
+      "course_id": "basic-loops",
+      "title": "Basic loops",
+      "description": "Learn to use simple loops"
+    },
+    {
+      "course_id": "arrays-loops",
+      "title": "Iterating on arrays",
+      "description": "Let's use loops to iterate on arrays"
+    }
+  ]
+}
