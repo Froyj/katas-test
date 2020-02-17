@@ -7,7 +7,7 @@
     "assets": {
       "host01": [
         {
-          "file": "part*",
+          "file": "counter.js",
           "target": "/home/loops/exercises/"
         }
       ]
