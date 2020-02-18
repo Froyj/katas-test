@@ -6,4 +6,5 @@ mkdir exercises
 cd exercises
 
 npm init --yes
-npm install --save-dev --quiet jest 
+# npm install --save-dev --quiet jest 
+npm install --save-dev --quiet ava
