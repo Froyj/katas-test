@@ -2,8 +2,8 @@ const test = require('ava');
 const { counter, counterDesc, findIfTidy, getLetterOccurences } = require('./counter');
 
 test('counter', t => {
-  const expected = 55
-  const actual = counter(10)
+  const expected = 55;
+  const actual = counter(10);
   t.is(expected, actual);
 });
 

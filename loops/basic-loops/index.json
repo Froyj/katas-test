@@ -13,6 +13,10 @@
         {
           "file": "counter.test.js",
           "target": "/home/exercises/"
+        },
+        {
+          "file": "package.json",
+          "target": "/home/exercises/"
         }
       ]
     },
@@ -37,9 +41,6 @@
       "courseData": "background.sh",
       "code": "foreground.sh",
       "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {
