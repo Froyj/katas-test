@@ -34,9 +34,6 @@
         "text": "step3.md"
       }
     ],
-    "files": [
-      "loop.js"
-    ],
     "intro": {
       "courseData": "background.sh",
       "code": "foreground.sh",
