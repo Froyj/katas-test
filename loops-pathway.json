@@ -12,6 +12,11 @@
       "course_id": "arrays-loops",
       "title": "Iterating on arrays",
       "description": "Let's use loops to iterate on arrays"
+    },
+    {
+      "course_id": "nested-loops",
+      "title": "Loopceptions !",
+      "description": "infinite vindaloop"
     }
   ]
 }
