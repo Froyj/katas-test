@@ -8,15 +8,15 @@
       "host01": [
         {
           "file": "ascendingCounter.js",
-          "target": "/home/exercises/"
+          "target": "/root/"
         },
         {
           "file": "counter.test.js",
-          "target": "/home/exercises/"
+          "target": "/root/"
         },
         {
           "file": "package.json",
-          "target": "/home/exercises/"
+          "target": "/root/"
         }
       ]
     },
