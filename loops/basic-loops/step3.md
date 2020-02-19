@@ -1,9 +1,3 @@
-# Complexifions les choses
+# Find if tidy
 
-Poussons un peu plus loin !
-
-Objectif 4 : Utiliser des boucles pour parcourir des tableaux
-
-Objectif 5 : Utiliser des boucles pour parcourir des chaînes de caractères
-
-Objectif 6 : utiliser des boucles pour parcourir des objets
+Write a loop that log every value in the given array

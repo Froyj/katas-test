@@ -1,3 +1,3 @@
-# For loops : ca devient un peu plus tricky
+# Descending counter
 
-Objectif 2 : Combiner petit à petit les différents paramètres afin de permettre de gagner en souplesse
+You must write a loop that log every number from 10 to 1

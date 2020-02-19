@@ -7,7 +7,7 @@
     "assets": {
       "host01": [
         {
-          "file": "counter.js",
+          "file": "ascendingCounter.js",
           "target": "/home/exercises/"
         },
         {
