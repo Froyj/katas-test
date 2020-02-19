@@ -44,7 +44,7 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/home/exercises/",
+    "uieditorpath": "/root/",
     "exclusionPatterns": [
       "./package*",
       "*.test.js"
