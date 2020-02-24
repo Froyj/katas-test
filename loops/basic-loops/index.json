@@ -8,15 +8,15 @@
       "host01": [
         {
           "file": "ascendingCounter.js",
-          "target": "/root/"
+          "target": "/root/for-loops"
         },
         {
           "file": "counter.test.js",
-          "target": "/root/"
+          "target": "/root/for-loops"
         },
         {
           "file": "package.json",
-          "target": "/root/"
+          "target": "/root/for-loops"
         }
       ]
     },
