@@ -4,8 +4,8 @@
   "icon": "fa-katacoda",
   "courses": [
     {
-      "course_id": "for-loops",
-      "title": "For loops",
+      "course_id": "basic-loops",
+      "title": "Basic loops",
       "description": "Learn to use simple for loops"
     },
     {
