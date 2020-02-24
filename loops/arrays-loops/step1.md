@@ -1,7 +1,4 @@
-# Manipulation de l'index
+# Check if a value exists in array 
 
-pour accéder à une valeur dans un tableau nous avons besoin de l'index. 
-
-
-
-`npx jest `{{execute T1}}
+Vérifier si la valeur passée en paramètre est présente dans un tableau
+Si elle est présente retourner 'true' sinon 'false'
