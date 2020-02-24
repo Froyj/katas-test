@@ -1,0 +1,22 @@
+{
+  "title": "Variables",
+  "description": "Learn to manage values with variables",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
+      "course_id": "Declaring variables",
+      "title": "Declaration",
+      "description": "Learn how to declare variable and display their values"
+    },
+    {
+      "course_id": "arrays-loops",
+      "title": "Iterating on arrays",
+      "description": "Let's use loops to iterate on arrays"
+    },
+    {
+      "course_id": "nested-loops",
+      "title": "Loopceptions !",
+      "description": "infinite vindaloop"
+    }
+  ]
+}
