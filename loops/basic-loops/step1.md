@@ -1,6 +1,6 @@
 # Ascending counter 
 
-Open the file `ascendingCounter.js` {{open}}
+Open the file `ascendingCounter.js`{{open}}
 
 You must write a loop that print every number from 1 to 10 in the terminal.
 
