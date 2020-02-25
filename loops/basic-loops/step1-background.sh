@@ -1,2 +1,2 @@
 # Ascending counter 
-cd /home/exercises
+cd for-loops/
