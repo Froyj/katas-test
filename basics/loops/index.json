@@ -9,6 +9,10 @@
         {
           "file": "*.js",
           "target": "/root/"
+        },
+        {
+          "file": "package.json",
+          "target": "/root/"
         }
       ]
     },
