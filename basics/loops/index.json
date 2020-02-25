@@ -36,7 +36,8 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": false,
+    "uieditorpath": "/root/",
+    "hideuieditorpath": true,
     "exclusionPatterns": [
       "./package*",
       "*.test.js",
