@@ -44,7 +44,7 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/root/for-loops",
+    "uieditorpath": "/root/",
     "exclusionPatterns": [
       "./package*",
       "*.test.js"
