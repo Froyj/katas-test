@@ -42,7 +42,6 @@
     "uisettings": "javascript",
     "uieditorpath": "/root/",
     "exclusionPatterns": [
-      "./package*",
       "*.test.js",
       "./*"
     ]
