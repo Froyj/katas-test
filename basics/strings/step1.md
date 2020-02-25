@@ -1,10 +1,14 @@
 # Ascending counter 
 
-Open the file `counter.js`{{open}}
+Open the file `ascendingCounter.js`{{open}}
 
 Complete the loop so it can print every digit from 0 to 9 in the terminal.
 
-Once you want to test your solution, run `node counter`{{execute}} to execute your code.
+Once you want to test your solution, run :
+
+`node ascendingCounter`{{execute}} 
+
+to execute your code.
 
 Your result should be : 
 

@@ -7,24 +7,16 @@
     "assets": {
       "host01": [
         {
-          "file": "checkIfInArray.js",
-          "target": "/root/"
+          "file": "ascendingCounter.js",
+          "target": "/root/for-loops"
         },
         {
-          "file": "getSumFromArray.js",
-          "target": "/root/"
+          "file": "descendingCounter.js",
+          "target": "/root/for-loops"
         },
         {
-          "file": "getMax.js",
-          "target": "/root/"
-        },
-        {
-          "file": "arrayLoops.test.js",
-          "target": "/root/"
-        },
-        {
-          "file": "package.json",
-          "target": "/root/"
+          "file": "countFromTo.js",
+          "target": "/root/for-loops"
         }
       ]
     },
@@ -42,27 +34,20 @@
         "text": "step3.md"
       }
     ],
-    "files": [
-      "loop.js"
-    ],
     "intro": {
       "courseData": "background.sh",
       "code": "foreground.sh",
       "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/home/exercises/",
+    "uieditorpath": "/root/for-loops",
     "exclusionPatterns": [
       "./package*",
-      "*.test.js",
-      ".*"
+      "*.test.js"
     ]
   },
   "backend": {

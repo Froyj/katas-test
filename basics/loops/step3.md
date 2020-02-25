@@ -1,3 +1,6 @@
-# Find if tidy
+# Count from from x to y
 
-Write a loop that log every value in the given array
+Open the file `coutFromTo.js`{{open}}
+
+Complete the loop inside the function so it can print every number between x and y (inclusive).
+

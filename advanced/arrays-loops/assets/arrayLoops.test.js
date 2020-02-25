@@ -1,4 +1,6 @@
-const { checkIfInArray, getSumFromArray, getMax } = require('./iterate-on-array');
+const checkIfInArray = require('./checkIfInArray.js');
+const getSumFromArray = require('./getSumFromArray');
+const getMax = require('./getMax');
 
 test('checkIfInArray', () => {
   const myArray = [1, 3, "hello", false];
