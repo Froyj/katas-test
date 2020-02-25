@@ -1,0 +1,56 @@
+{
+  "title": "Loops Katas",
+  "description": "doin'loops",
+  "difficulty": "Beginner",
+  "time": "20 min",
+  "details": {
+    "assets": {
+      "host01": [
+        {
+          "file": "counter.js",
+          "target": "/root/for-loops"
+        },
+        {
+          "file": "descendingCounter.js",
+          "target": "/root/for-loops"
+        },
+        {
+          "file": "countFromTo.js",
+          "target": "/root/for-loops"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "courseData": "background.sh",
+      "code": "foreground.sh",
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "hidefinish": true,
+    "uilayout": "editor-terminal",
+    "uisettings": "javascript",
+    "uieditorpath": "/root/for-loops",
+    "exclusionPatterns": [
+      "./package*",
+      "*.test.js"
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
