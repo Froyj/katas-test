@@ -11,11 +11,11 @@
           "target": "/root/for-loops"
         },
         {
-          "file": "counter.test.js",
+          "file": "descendingCounter.js",
           "target": "/root/for-loops"
         },
         {
-          "file": "package.json",
+          "file": "countFromTo.js",
           "target": "/root/for-loops"
         }
       ]
@@ -44,7 +44,7 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/root/",
+    "uieditorpath": "/root/for-loops",
     "exclusionPatterns": [
       "./package*",
       "*.test.js"
