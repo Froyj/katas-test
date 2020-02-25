@@ -2,11 +2,12 @@
 
 Open the file `ascendingCounter.js`{{open}}
 
-You must write a loop that print every number from 1 to 10 in the terminal.
+Complete the loop so it can print every digit from 0 to 9 in the terminal.
 
 Once you want to test your solution, run :
 
 `node ascendingCounter`{{execute}} 
+`cd for-loops`{{execute T2}}
 
 to execute your code.
 

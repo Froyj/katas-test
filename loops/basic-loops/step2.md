@@ -2,7 +2,7 @@
 
 Open the file `descendingCounter.js`{{open}}
 
-You must write a loop that print every number from 1 to 10 in the terminal.
+Complete the loop so it can print every number from 1 to 10 in the terminal.
 
 Once you want to test your solution, run :
 
