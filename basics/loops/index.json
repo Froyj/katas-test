@@ -40,7 +40,7 @@
     "exclusionPatterns": [
       "./package*",
       "*.test.js",
-      ".*"
+      "./*"
     ]
   },
   "backend": {
