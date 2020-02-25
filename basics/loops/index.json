@@ -47,7 +47,8 @@
     "uieditorpath": "/root/",
     "exclusionPatterns": [
       "./package*",
-      "*.test.js"
+      "*.test.js",
+      ".*"
     ]
   },
   "backend": {
