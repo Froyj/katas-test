@@ -37,11 +37,10 @@
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "uieditorpath": "/root/",
-    "hideuieditorpath": true,
     "exclusionPatterns": [
       "./package*",
       "*.test.js",
-      "./.*"
+      ".*"
     ]
   },
   "backend": {

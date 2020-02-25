@@ -1,3 +1,5 @@
-for ( ; ; ) {
-  console.log()
+function countFromTo() {
+  for (; ;) {
+    console.log()
+  }
 }

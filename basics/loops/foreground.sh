@@ -1,2 +1,2 @@
 
-# mkdir -p for-loops && cd for-loops
+npm install ava
