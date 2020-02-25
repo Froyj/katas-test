@@ -11,7 +11,7 @@
           "target": "/root/"
         },
         {
-          "file": "descendingCounter.js",
+          "file": "countdown.js",
           "target": "/root/"
         },
         {
@@ -48,7 +48,7 @@
     "exclusionPatterns": [
       "./package*",
       "*.test.js",
-      ".*"
+      "./.*"
     ]
   },
   "backend": {
