@@ -1,0 +1,23 @@
+{
+  "name": "katas-loops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Froyj/katas-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Froyj/katas-test/issues"
+  },
+  "homepage": "https://github.com/Froyj/katas-test#readme",
+  "devDependencies": {
+    "ava": "^3.3.0"
+  }
+}
