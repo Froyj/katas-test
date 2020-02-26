@@ -1,4 +1,7 @@
 # Check if a value exists in array 
 
-Vérifier si la valeur passée en paramètre est présente dans un tableau
-Si elle est présente retourner 'true' sinon 'false'
+Open the file `checkIfInArray.js`{{open}}
+
+Check if the given value is present in the array in parameter. If it is return true else return false.
+
+Run `node checkIfInArray`{{execute}} to test your code;

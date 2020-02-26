@@ -9,12 +9,13 @@ With the following object :
 `{ firstName: 'Art', lastName: 'Blakey', instrument: 'drums' }`
 
 you must return :
-```
+`
 [
   {key: 'firstName' , value: 'Art'}, 
   {key: 'lastName' , value: 'Blakey'}, 
   {key: 'instrument' , value: 'drums'}
-]` 
+]
+` 
 
 
 Run `node objToArray`{{execute}} to test your code;
