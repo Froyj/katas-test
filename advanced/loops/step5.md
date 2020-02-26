@@ -23,4 +23,4 @@ you must return :
 }
 ` 
 
-Run `allCharFoundAt.test.js`{{execute}} to test your code;
+Run `node allCharFoundAt.test.js`{{execute}} to test your code;
