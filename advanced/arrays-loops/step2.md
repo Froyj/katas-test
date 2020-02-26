@@ -2,6 +2,6 @@
 
 Open the file `getSumFromArray.js`{{open}}
 
-The function getSumFromArraymust return the sum of the values in the array passed as a parameter of the function.
+The function getSumFromArray takes an array of number in parameter and must return the sum of the arrays's elements .
 
 Run `node getSumFromArray`{{execute}} to test your code;
