@@ -39,6 +39,7 @@
     "uisettings": "javascript",
     "exclusionPatterns": [
       "./*",
+      "./.*",
       "*.test.js"
     ]
   },
