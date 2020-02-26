@@ -1,11 +1,9 @@
 ## Goals :
-  - Learn for loop syntax basics
-  - Write loops
-  - Modify for loop parameters
-  - Manipulate loop condition (for loop)
-  - Learn while loops
-  - Manipulate loop condition (while loop)
-  - Learn do-while loops
+- concatenation
+- conversion to int 
+- conversion to float
+- get a specific char in one string
+- explore String methods
 
 ## List of exercises
 
