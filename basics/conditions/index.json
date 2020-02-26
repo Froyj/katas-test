@@ -38,7 +38,7 @@
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "exclusionPatterns": [
-      "./package*",
+      "./*",
       "*.test.js"
     ]
   },
