@@ -8,4 +8,4 @@ Example :
 
 `getMax([23, 14, -5, 0])` ==> should return `23`
 
-Run `node getMax`{{execute}} to test your code;
+Run `node getMax.test`{{execute}} to test your code;

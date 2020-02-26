@@ -1,6 +1,6 @@
 # Count occurences of a letter in a string
 
-Open countOccurences.js{{open}}
+Open `countOccurences.js`{{open}}
 
 Here, you must complete the for loop parameters and instruction so that occurences is displayed with the correct value.
 

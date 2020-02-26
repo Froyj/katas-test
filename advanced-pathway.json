@@ -4,19 +4,9 @@
   "icon": "fa-katacoda",
   "courses": [
     {
-      "course_id": "arrays-loops",
-      "title": "Iterating on arrays",
-      "description": "Let's use loops to iterate on arrays"
-    },
-    {
-      "course_id": "object-loops",
-      "title": "Iterating on objects",
-      "description": "Let's use loops to iterate on objects"
-    },
-    {
-      "course_id": "nested-loops",
-      "title": "Loopceptions !",
-      "description": "Retrofeedback infinitive vindaloop"
+      "course_id": "loops",
+      "title": "Advanced loops",
+      "description": "Let's use loops in more complex contexts"
     }
   ]
 }

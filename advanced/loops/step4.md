@@ -18,4 +18,4 @@ you must return :
 ` 
 
 
-Run `node objToArray`{{execute}} to test your code;
+Run `node objToArray.test`{{execute}} to test your code;
