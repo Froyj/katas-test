@@ -1,27 +1,9 @@
-# Ascending counter 
+# Get variable type
 
-Open the file `ascendingCounter.js`{{open}}
+Open the file `getType.js`{{open}}
 
-Complete the loop so it can print every digit from 0 to 9 in the terminal.
+Complete the function getType so it returns the type of the variable passed in parameter.
 
-Once you want to test your solution, run :
+Javascript provide a specific method that can help you to retrieve the type, with a brief search in google, you'll find it easily.
 
-`node ascendingCounter`{{execute}} 
-`cd for-loops`{{execute T2}}
-
-to execute your code.
-
-Your result should be : 
-
-`
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-`
+Run `node getType`{{execute}} to execute your code.

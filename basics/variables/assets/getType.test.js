@@ -1,10 +1,10 @@
 const assert = require('assert');
-const substring = require('./substring');
+const getType = require('./getType');
 
 console.log("\x1b[1m\x1b[31m")
-assert.strictEqual('Script', substring('JavaScript', 4));
+assert.strictEqual(getType(4.15), 'number');
 console.log("\x1b[32m%s\x1b[0m", "OK // test passed");
 
 console.log("\x1b[1m\x1b[31m")
-assert.strictEqual('Scri', substring('JavaScript', 4, 8));
+assert.strictEqual(getType("Hello"), 'string');
 console.log("\x1b[32m%s\x1b[0m", "OK // test passed");
