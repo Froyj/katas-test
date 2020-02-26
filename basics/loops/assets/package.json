@@ -4,7 +4,7 @@
   "description": "Exercises to practice loops",
   "main": "index.js",
   "scripts": {
-    "test:multiply": "node multiply.test.js"
+    "test": "node multiply.test.js"
   },
   "author": "",
   "license": "ISC",
