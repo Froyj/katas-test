@@ -1,4 +1,4 @@
-# Converting objects into arrays
+# Extract a substring
 
 Open the file `.js`{{open}}
 

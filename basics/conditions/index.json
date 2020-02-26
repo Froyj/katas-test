@@ -7,16 +7,8 @@
     "assets": {
       "host01": [
         {
-          "file": "ascendingCounter.js",
-          "target": "/root/for-loops"
-        },
-        {
-          "file": "descendingCounter.js",
-          "target": "/root/for-loops"
-        },
-        {
-          "file": "countFromTo.js",
-          "target": "/root/for-loops"
+          "file": "*.js",
+          "target": "/root/"
         }
       ]
     },
@@ -41,10 +33,10 @@
     }
   },
   "environment": {
+    "hideintro": true,
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/root/for-loops",
     "exclusionPatterns": [
       "./package*",
       "*.test.js"
