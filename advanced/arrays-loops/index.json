@@ -7,23 +7,7 @@
     "assets": {
       "host01": [
         {
-          "file": "checkIfInArray.js",
-          "target": "/root/"
-        },
-        {
-          "file": "getSumFromArray.js",
-          "target": "/root/"
-        },
-        {
-          "file": "getMax.js",
-          "target": "/root/"
-        },
-        {
-          "file": "arrayLoops.test.js",
-          "target": "/root/"
-        },
-        {
-          "file": "package.json",
+          "file": "*.js",
           "target": "/root/"
         }
       ]
