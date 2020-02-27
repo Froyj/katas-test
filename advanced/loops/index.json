@@ -30,16 +30,10 @@
       "loop.js"
     ],
     "intro": {
-      "courseData": "background.sh",
-      "code": "foreground.sh",
       "text": "intro.md"
     },
-    "finish": {
-      "text": "finish.md"
-    }
   },
   "environment": {
-    "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "exclusionPatterns": [
