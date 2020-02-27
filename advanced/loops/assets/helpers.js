@@ -7,7 +7,7 @@ const prettyStrEq = (exp, act, msg) => {
 
 const prettyDpStrEq = (exp, act, msg) => {
   console.log("\x1b[1m\x1b[31m")
-  prettyDpStrEq(exp, act, msg)
+  assert.deepStrictEqual(exp, act, msg)
   console.log("\x1b[32m%s\x1b[0m", "OK // test passed");
 }
 

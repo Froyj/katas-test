@@ -1,4 +1,4 @@
-const prettyDpStrEq = require('./helpers');
+const { prettyDpStrEq } = require('./helpers');
 const charFirstFoundAt = require('./charFirstFoundAt');
 
 prettyDpStrEq({
