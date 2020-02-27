@@ -1,5 +1,3 @@
-const assert = require('assert');
-
 const charFirstFoundAt = str => {
   const result = {};
   for (let i = 0 ; i < str.length ; i++) {
