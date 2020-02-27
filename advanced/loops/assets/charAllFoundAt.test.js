@@ -15,5 +15,5 @@ prettyDpStrEq({
   b: [1, 8],
   r: [2, 9],
   c: [4],
-  d: [6]
+  d: [6],
 }, charAllFoundAt('abracadabra'));
