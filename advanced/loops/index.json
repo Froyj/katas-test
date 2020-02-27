@@ -1,5 +1,5 @@
 {
-  "title": "Loops Katas",
+  "title": "Advanced use of loops",
   "description": "doin'loops",
   "difficulty": "Beginner",
   "time": "20 min",
@@ -28,10 +28,7 @@
     ],
     "files": [
       "loop.js"
-    ],
-    "intro": {
-      "text": "intro.md"
-    }
+    ]
   },
   "environment": {
     "uilayout": "editor-terminal",
