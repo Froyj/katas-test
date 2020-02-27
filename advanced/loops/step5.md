@@ -1,8 +1,8 @@
-# Converting objects into arrays
+# Build an object from a word
 
-Open the file `allCharFoundAt.js`{{open}}
+Open the file `charAllFoundAt.js`{{open}}
 
-The function allCharFoundAt.js takes one word as a string in parameter and must return an object in which : 
+The function charAllFoundAt.js takes one word as a string in parameter and must return an object in which : 
 - keys refer to the different letters of the word
 - values arrays of positions you can find this letter in the word  
 
@@ -23,4 +23,4 @@ you must return :
 }
 ` 
 
-Run `node allCharFoundAt.test.js`{{execute}} to test your code;
+Run `node charAllFoundAt.test.js`{{execute}} to test your code;

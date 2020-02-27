@@ -1,2 +1,2 @@
-# 
+# Combining operators
 
