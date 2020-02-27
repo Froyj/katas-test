@@ -4,6 +4,7 @@
 // - indexOf puis slice
 
 const { prettyDpStrEq } = require('./helpers');
+const keepStringsUntil = require('./keepStringsUntil');
 
 prettyDpStrEq(
   ['I', 'should', 'not', 'go', 'beyond'],
