@@ -14,20 +14,16 @@
     },
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Find a value in an array",
+        "text": "checkIfInArray.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Calculate the sum of numbers in an array",
+        "text": "getSumFromArray.md"
       },
       {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
+        "title": "Find the greatest number in an array",
+        "text": "getMax.md"
       }
     ],
     "files": [
