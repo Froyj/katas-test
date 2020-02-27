@@ -1,6 +1,4 @@
-const assert = require('assert');
+const prettyStrEq = require('./helpers');
 const getMax = require('./getMax');
 
-console.log("\x1b[1m\x1b[31m")
-assert.strictEqual(getMax([32, 12, 0, 5, -4]), 32);
-console.log("\x1b[32m%s\x1b[0m", "OK // test passed");
+prettyStrEq(getMax([32, 12, 0, 5, -4]), 32);
