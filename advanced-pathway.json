@@ -7,6 +7,16 @@
       "course_id": "loops",
       "title": "Advanced loops",
       "description": "Let's use loops in more complex contexts"
+    },
+    {
+      "course_id": "iterate-strings",
+      "title": "Advanced loops",
+      "description": "Let's use loops in more complex contexts"
+    },
+    {
+      "course_id": "format-data",
+      "title": "Advanced loops",
+      "description": "Let's use loops in more complex contexts"
     }
   ]
 }
