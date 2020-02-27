@@ -20,30 +20,16 @@
       {
         "title": "Step 2",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
       }
     ],
     "files": [
       "loop.js"
     ],
     "intro": {
-      "courseData": "background.sh",
-      "code": "foreground.sh",
       "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {
-    "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "exclusionPatterns": [

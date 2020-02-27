@@ -1,5 +1,7 @@
-# Parcourir un tableau
+# Check if a value exists in array 
 
-Le tableau est une structure de donnée très utilisée en informatique.
+Open the file `checkIfInArray.js`{{open}}
 
-Voici une série de kata dont le but est d'explorer différentes manières de parcourir un tableau
+Check if the given value is present in the array in parameter. If it is the case, return true else return false.
+
+Run `node checkIfInArray.test`{{execute}} to test your code;
