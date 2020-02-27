@@ -10,13 +10,13 @@
     },
     {
       "course_id": "iterate-strings",
-      "title": "Advanced loops",
-      "description": "Let's use loops in more complex contexts"
+      "title": "Iterations on strings",
+      "description": "Use loops to iterate on strings"
     },
     {
       "course_id": "format-data",
-      "title": "Advanced loops",
-      "description": "Let's use loops in more complex contexts"
+      "title": "Formatting data",
+      "description": "Modify your data structures with loops"
     }
   ]
 }
