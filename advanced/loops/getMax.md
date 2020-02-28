@@ -1,5 +1,3 @@
-# Return the greatest value in an array
-
 Open the file `getMax.js`{{open}}
 
 The getMax function must return the greatest value in an array of numbers given in parameters
