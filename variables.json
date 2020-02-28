@@ -1,0 +1,12 @@
+{
+  "title": "Variables",
+  "description": "Consolidate the base concepts",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
+      "course_id": "basics",
+      "title": "Variables : les fondamentaux",
+      "description": "Apprendre à déclarer et utiliser des variables"
+    },
+  ]
+}

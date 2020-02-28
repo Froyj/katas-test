@@ -14,7 +14,7 @@
     },
     "steps": [
       {
-        "title": "Find a value in an array",
+        "title": "Check if a value exists in a array",
         "text": "checkIfInArray.md"
       },
       {

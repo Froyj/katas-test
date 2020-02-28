@@ -17,18 +17,12 @@
         "title": "Step 1",
         "text": "step1.md"
       }
-    ],
-    "intro": {
-      "courseData": "background.sh",
-      "code": "foreground.sh",
-      "text": "intro.md"
-    }
+    ]
   },
   "environment": {
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/root/for-loops",
     "exclusionPatterns": [
       "./package*",
       "*.test.js"
