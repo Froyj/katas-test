@@ -1,6 +1,20 @@
 ## Goals :
- - declare a string
- - declare a 
+ 
+
+### Opérateurs et numbers
+ - addition number
+### Variables:
+
+ - déclarer une chaîne de caractère
+ - déclarer un nombre
+ - déclarer un booléen
+ - déclarer objet
+ - déclarer un tableau
+
+ - Expérimenter la différence entre let, const (et var ?)
+ - immutabilité des variables
+
+ - identifier le type d'une variable
 
 ## List of exercises
 

@@ -1,9 +1,7 @@
-# Get variable type
+# Creation d'un héros
 
-Open the file `getType.js`{{open}}
+Nous cherchons à representer notre héros au moyen d'outils algorithmique
 
-Complete the function getType so it returns the type of the variable passed in parameter.
+Dans un premier temps nous allons donner un nom à notre héros 
 
-Javascript provide a specific method that can help you to retrieve the type, with a brief search in google, you'll find it easily.
-
-Run `node getType`{{execute}} to execute your code.
+Créer une string 

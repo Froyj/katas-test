@@ -1,10 +1,7 @@
-# Loops 
+# Déclaration de variables 
 
-Everytime you need to do a reptitive task, you will probably need a loop to solve it
+Une suite d'exercice destinée à se familiriser avec la création de variables
 
-The goal here is to manipulate different kinds of loops. 
-
-You will need nothing more than a basic loop but you have to call it with the right parameters.
 
 
 
