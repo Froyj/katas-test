@@ -1,0 +1,34 @@
+{
+  "title": "Loops Katas",
+  "description": "doin'loops",
+  "difficulty": "Beginner",
+  "time": "20 min",
+  "details": {
+    "assets": {
+      "host01": [
+        {
+          "file": "*.js",
+          "target": "/root/for-loops"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ]
+  },
+  "environment": {
+    "hidefinish": true,
+    "uilayout": "editor-terminal",
+    "uisettings": "javascript",
+    "exclusionPatterns": [
+      "./package*",
+      "*.test.js"
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
