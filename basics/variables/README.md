@@ -1,6 +1,20 @@
 ## Goals :
- - declare a string
- - declare a 
+ 
+
+### Opérateurs et numbers
+ - addition number
+### Variables:
+
+ - déclarer une chaîne de caractère
+ - déclarer un nombre
+ - déclarer un booléen
+ - déclarer objet
+ - déclarer un tableau
+
+ - Expérimenter la différence entre let, const (et var ?)
+ - immutabilité des variables
+
+ - identifier le type d'une variable
 
 ## List of exercises
 
@@ -29,3 +43,11 @@ Déclarer un entier ``heroAge`` dont la valeur est le nombre entier 36.
 Déclarer une variable ``weapons`` et lui affecter un tableau
 
 Déclarer la variable
+
+
+#### variables1.md
+
+Tests :
+Vérifier 
+- que la variable est bien une constante
+- que la valeur passée est bien une chaîne de caractère

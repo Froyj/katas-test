@@ -1,8 +1,8 @@
 {
-  "title": "Loops Katas",
-  "description": "doin'loops",
+  "title": "Manipulation de variables",
+  "description": "Exerce-toi à créer, et manipuler des variables",
   "difficulty": "Beginner",
-  "time": "20 min",
+  "time": "",
   "details": {
     "assets": {
       "host01": [
@@ -14,8 +14,12 @@
     },
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Déclaration de variables et assignations",
+        "text": "variables1.md"
+      },
+      {
+        "title": "Manipulation de variables",
+        "text": "variables2.md"
       }
     ]
   },
