@@ -13,7 +13,20 @@ Dans un premier temps nous allons donner un nom à notre héros et le stocker da
 
 Lancer les tests
 
+>>Q1: Enter the extract string test<<
+=== test
 
+>>Q2: Enter the string containing test<<
+=~= test
+
+>>Q3: Multiple Choice <<
+[*] Correct
+[*] Correct
+[ ] Incorrect
+
+>>Q4: Single Choice <<
+(*) Correct
+( ) Incorrect
 
 
 
