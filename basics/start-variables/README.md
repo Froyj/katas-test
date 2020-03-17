@@ -43,3 +43,11 @@ Déclarer un entier ``heroAge`` dont la valeur est le nombre entier 36.
 Déclarer une variable ``weapons`` et lui affecter un tableau
 
 Déclarer la variable
+
+
+#### variables1.md
+
+Tests :
+Vérifier 
+- que la variable est bien une constante
+- que la valeur passée est bien une chaîne de caractère
