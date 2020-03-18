@@ -7,8 +7,8 @@
     "assets": {
       "host01": [
         {
-          "file": "*.js",
-          "target": "/root/for-loops"
+          "file": "variables*.js",
+          "target": "/root/"
         }
       ]
     },
