@@ -1,25 +1,27 @@
 Concaténation
-Addition
-Addition
-Modulo
-Réaffectation avec +=
 
+Addition
 Reaffectation
-Multiplication, additions, soustractions
 
+Multiplication, 
+soustractions
+
+Modulo
 
 
 ## Première rencontre
 
-Notre héros à malheureusement croisé un ennemi bien trop gros pour lui. Le dragon (car c'est un dragon) lui inflige une terrible attaque et les points de vie de notre héros tombent à 0.
+Notre héros à maintenant besoin d'un ennemi.  Tout comme notre héros nous allons lui donner : un nom, des points de vie et une valeur d'attaque.
 
+- Déclare les variables enemyName, enemyHp et enemyAttack et assignent leur les valeurs "cequetuveux", 200 et 70
+
+Notre héros et son ennemi se battent et chacun inflige aux point de l'autre l'équivalent de son attaque.
+
+- Change les valeurs de heroHp et enemyHp pour avoir les bonne valeurs après les attaques
 - réassigne une nouvelle valeur à la variable healthPoints
+- affiche les points de vie du heros de son ennemi après l'attaque.
 
 
-Notre héros trouve une arme
-
-
-Déclare un tableau qui a pour éléments les différentes armes qui seront à portée de main de notre héros
 
 
 

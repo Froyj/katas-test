@@ -1,7 +1,9 @@
 # Creation d'un personnage
 
 Commençons par créer un **personnage** que nous suivrons tout au long de ce chapitre.
+
 Notre personnage comme tout héros, va rencontrer des ennemis, va devoir se battre et potentiellement mourir :'(
+
 Dans un premier temps, le but va être de définir quelques caractéristiques de notre personnage.
 
 Commençons par son nom :
