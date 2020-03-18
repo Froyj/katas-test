@@ -7,7 +7,7 @@
     "assets": {
       "host01": [
         {
-          "file": "variables*.js",
+          "file": "variables*",
           "target": "/root/"
         }
       ]
