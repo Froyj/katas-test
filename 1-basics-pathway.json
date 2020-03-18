@@ -1,0 +1,27 @@
+{
+  "title": "Basics",
+  "description": "Consolidate the base concepts",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
+      "course_id": "loops",
+      "title": "Boucles - les fondamentaux",
+      "description": "S'entraîner à écrire des boucles simples"
+    },
+    {
+      "course_id": "functions",
+      "title": "Les fonctions",
+      "description": "Intégrer la syntaxe des fonctions"
+    },
+    {
+      "course_id": "variables",
+      "title": "Création et manipulation de variables",
+      "description": "Utiliser les variables pour stocker, modifier et exploiter des valeurs"
+    },
+    {
+      "course_id": "conditions",
+      "title": "Les conditions",
+      "description": "To be or not to be (true)"
+    }
+  ]
+}
