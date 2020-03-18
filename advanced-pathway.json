@@ -10,8 +10,8 @@
     },
     {
       "course_id": "iterate-strings",
-      "title": "Iterations on strings",
-      "description": "Use loops to iterate on strings"
+      "title": "Parcourir et manipuler des chaînes de caractères",
+      "description": "Utilisation des boucles pour traiter des chaînes de caractères"
     },
     {
       "course_id": "format-data",
