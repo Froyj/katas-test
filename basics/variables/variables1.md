@@ -1,10 +1,16 @@
-# Creation d'un héros
-
-Nous cherchons à representer notre héros au moyen d'outils algorithmique
-
-Dans un premier temps nous allons donner un nom à notre héros 
 
 
-Crée la variable myHero et assigne lui une valeur de type string : son nom.
+# Creation d'un personnage
 
-Test ton résultat avec `variables1-test.sh`{{execute}}
+Commençons par créer un **personnage**.
+
+Dans un premier temps nous allons donner un nom à notre personnage.
+
+- Crée la variable **myHero** et assigne lui une valeur de type string : son nom.
+- Affiche ensuite le contenu de **myHero** dans la console.
+- Vérifie le type de la variable **myHero** (indice: *typeof*)
+
+Test ton résultat avec `node variables1`{{execute}}
+
+
+
