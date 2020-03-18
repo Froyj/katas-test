@@ -28,6 +28,7 @@
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "exclusionPatterns": [
+      "./*-eof.js"
       "./.*"
     ]
   },
