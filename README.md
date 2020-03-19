@@ -23,10 +23,10 @@ Plusieurs type de compétences peuvent être entraînée pour les katas
 ## Quelle progression proposer ?
 
 Les deux principales organisations imaginées sont 
-  1. Organisation par niveau de difficulté 
+  1- Organisation par niveau de difficulté 
     - Courses : choix du niveau de difficulté
     - Scénarios : choix du sujet 
-  2. Organisation par sujet
+  2- Organisation par sujet
     - Courses  : choix du sujet
     - Scénarios: choix du niveau de difficulté
 
