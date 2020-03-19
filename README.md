@@ -30,7 +30,7 @@ Les deux principales organisations imaginées sont
     - Courses  : choix du sujet
     - Scénarios: choix du niveau de difficulté
 
-Je serais plutôt en faveur du second niveau qui permet d'organiser de manière plus cohérente les notions et les types d'exercices au sein de chaque scénario
+Je serais plutôt en faveur de l'organisation par sujet qui permet d'organiser de manière plus cohérente les notions et les types d'exercices au sein de chaque scénario.
 
 Dans tous les cas il est important de lister en page d'intro les scénarios et notions qui constitueront les prérequis. 
 
@@ -73,4 +73,24 @@ Ensemble d'instruction scénarisées où on apporte un contexte qui apporter du 
 
 - design patterns 
 
+
+
+
+# Etat du repo
+
+Base 
+- For loop base : 5 exercices
+- Fonctions : pas d'exercices
+- Variables : 2 exercices
+- Conditions : pas d'exercices
+- Opérateurs : en cours 
+
+Intermédiaire :
+- Boucles: 3 exercices (avec tests)
+- Parcours de string:  4 exercices (avec tests)
+- Formatage de données: 2 exercices (avec tests)
+
+## Plan :
+
+- Faire un parcours avec contexte (Réalisation d'un petit jeu). Réutilisation possible du code écris au court de la série d'exercice
 
