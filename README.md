@@ -20,14 +20,32 @@ Plusieurs type de compétences peuvent être entraînée pour les katas
 - Mettre en oeuvre une notion
 - Utiliser plusieurs notions
 
-## Les différents formats de kata
+## Quelle progression proposer ?
 
-### Trouve le résultat
+Les deux principales organisations imaginées sont 
+  1. Organisation par niveau de difficulté 
+    - Courses : choix du niveau de difficulté
+    - Scénarios : choix du sujet 
+  2. Organisation par sujet
+    - Courses  : choix du sujet
+    - Scénarios: choix du niveau de difficulté
+
+Je serais plutôt en faveur du second niveau qui permet d'organiser de manière plus cohérente les notions et les types d'exercices au sein de chaque scénario
+
+Dans tous les cas il est important de lister en page d'intro les scénarios et notions qui constitueront les prérequis. 
+
+## Les différentes formats de kata
+
+### Vérifier la syntaxe
+
+
+
+### Trouver le résultat
 
 Une portion de code est présentée et l'apprenant doit trouver quelle est la valeur retournée.
 Typiquement, c'est le format utilisé sur [silentteacher](http://silentteacher.toxicode.fr/)
 
-Un exemple est disponible 
+Ici, le but est faire pratiquer la lecture l'interprétation d'un code que l'on a pas écrit.
 
 ### Problème simple
 
@@ -35,6 +53,10 @@ Ce sont des petits problèmes d'algorithmie simple.
 Cela peut consister à recoder certaines méthodes native de javascript (slice, sort). 
 L'avantage de ce genre d'exercice est qu'il est généralement facile de les tester pour valider la réponse soumise.
 
+### Récapitulatif des notions sous forme d'exercice scénarisé
+
+Ce sont plutôt des exercices qui devraient être proposés à la fin d'un parcours
+Ensemble d'instruction scénarisées où on apporte un contexte qui apporter du sens sur ce que l'on fait, tout en demandant à l'apprenant de remettre en oeuvre les notions apprises.
 
 ## Katacoda : fonctionnnalités 
 
@@ -45,5 +67,10 @@ L'avantage de ce genre d'exercice est qu'il est généralement facile de les tes
 - lancement de scripts (forground et/ou background) au lancement du scenario et/ou après chaque étape du scénario
 - création de 
 
+
+
+## Sujets de katas éventuels et plus approfondis
+
+- design patterns 
 
 
