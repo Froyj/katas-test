@@ -10,7 +10,7 @@ Les notions et concepts doivent être intégrés de façon très **incrémentale
 Les **objectifs pédagogiques** doivent être explicités au début de chaque exercice ou série d'exercices.
 
 Ce que n'est pas un kata :
- - un problème d'algo
+ - un problème d'algorithmie complexe (exemple: codewars)
  - un quizz 
 
 Plusieurs type de compétences peuvent être entraînée pour les katas
