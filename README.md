@@ -11,7 +11,7 @@ Les **objectifs pédagogiques** doivent être explicités au début de chaque ex
 
 Ce que n'est pas un kata :
  - un problème d'algorithmie complexe (exemple: codewars)
- - un quizz 
+ - un quizz
 
 Plusieurs type de compétences peuvent être entraînée pour les katas
 - Ecrire la syntaxe correctement
@@ -58,7 +58,7 @@ L'avantage de ce genre d'exercice est qu'il est généralement facile de les tes
 Ce sont plutôt des exercices qui devraient être proposés à la fin d'un parcours
 Ensemble d'instruction scénarisées où on apporte un contexte qui apporter du sens sur ce que l'on fait, tout en demandant à l'apprenant de remettre en oeuvre les notions apprises.
 
-## Katacoda : fonctionnnalités 
+## Katacoda : fonctionnalités 
 
 - quizz
 - mise en forme en markdown

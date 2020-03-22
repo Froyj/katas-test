@@ -1,0 +1,53 @@
+{
+  "title": "Variables declaration",
+  "description": "",
+  "difficulty": "Débutant",
+  "time": "",
+  "details": {
+    "assets": {
+      "host01": [
+        {
+          "file": "*.js",
+          "target": "/root/"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Déclaration de variables et assignations",
+        "text": "variables1.md"
+      },
+      {
+        "title": "Manipulation de variables",
+        "text": "variables2.md"
+      }, 
+      {
+        "title": "Reassign a value to a variable",
+        "text": "assign-variable.md"
+      }, 
+      {
+        "title": "Arrays",
+        "text": "arrays.md"
+      }, 
+      {
+        "title": "Object literals 1/2",
+        "text": "object-literals-1.md"
+      }, 
+      {
+        "title": "Object literals 2/2",
+        "text": "object-literals-2.md"
+      } 
+    ]
+  },
+  "environment": {
+    "hidefinish": true,
+    "uilayout": "editor-terminal",
+    "uisettings": "javascript",
+    "exclusionPatterns": [
+      "*"
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

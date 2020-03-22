@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "description": "Utilisations des notions de bases pour résoudre des problèmes",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
+      "course_id": "variable",
+      "title": "Variales",
+      "description": "Practice variables declaration"
+    }
+  ]
+}
