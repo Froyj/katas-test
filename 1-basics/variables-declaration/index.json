@@ -14,12 +14,12 @@
     },
     "steps": [
       {
-        "title": "Déclaration de variables et assignations",
-        "text": "variables1.md"
+        "title": "Declaration : numbers",
+        "text": "numbers.md"
       },
       {
-        "title": "Manipulation de variables",
-        "text": "variables2.md"
+        "title": "Declaration: strings",
+        "text": "strings.md"
       }, 
       {
         "title": "Reassign a value to a variable",
