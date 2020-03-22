@@ -5,33 +5,28 @@
   "courses": [
     {
       "course_id": "loops",
-      "title": "Boucles - les fondamentaux",
-      "description": "S'entraîner à écrire des boucles simples"
+      "title": "Loops",
+      "description": "Get used to the syntaxe and practice loops"
     },
     {
       "course_id": "functions",
-      "title": "Les fonctions",
-      "description": "Intégrer la syntaxe des fonctions"
-    },
-    {
-      "course_id": "variables",
-      "title": "Création et manipulation de variables",
-      "description": "Utiliser les variables pour stocker, modifier et exploiter des valeurs"
+      "title": "Functions",
+      "description": "Learn to create reusable piece of code"
     },
     {
       "course_id": "conditions",
-      "title": "Les conditions",
+      "title": "Control structures",
       "description": "To be or not to be (true)"
     },
     {
       "course_id": "operators",
-      "title": "Les opérateurs arithmétiques",
-      "description": "Maths!"
+      "title": "Operators",
+      "description": "Maths, logic and few other things"
     },
     {
       "course_id": "variables-declaration",
       "title": "Variables : Declarations and assignment",
-      "description": "Create some variables and and assign them values"
+      "description": "Create, modify and access values with variables"
     }
   ]
 }
