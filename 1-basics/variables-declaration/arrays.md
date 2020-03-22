@@ -1,6 +1,6 @@
 # Array declaration
 
-- Open the file `arrays.js`{{open}}
+- Open the file `ingredients.js`{{open}}
 - Declare an array `ingredients` with the following elements :
   - `'egg'`
   - `'flour'`

@@ -1,6 +1,6 @@
 # Create new properties
 
-- Open the file `arrays.js`{{open}}
+- Open the file `hero.js`{{open}}
 - Declare an array `stuff` with the following with the following elements : 
   - `'rope'`
   - `'key'`
@@ -12,7 +12,7 @@
 
 - Create a new property `inventory` assign the array `stuff`
 
-Run `node person.js`{{execute}} to execute your code.
+Run `node hero.js`{{execute}} to execute your code.
 
 Your result should look like this :
 

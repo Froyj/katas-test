@@ -1,6 +1,6 @@
 # Object literal
 
-- Open the file `arrays.js`{{open}}
+- Open the file `person.js`{{open}}
 - Declare an object `person` with the following properties :
   - name (string)
   - age (number)
