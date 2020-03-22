@@ -14,28 +14,8 @@
     },
     "steps": [
       {
-        "title": "For loops",
-        "text": "for1.md"
-      },
-      {
-        "title": "For loops",
-        "text": "for2.md"
-      },
-      {
-        "title": "For loops",
-        "text": "for3.md"
-      },
-      {
-        "title": "For loops",
-        "text": "for4.md"
-      },
-      {
-        "title": "While loops",
-        "text": "while1.md"
-      },
-      {
-        "title": "While loops",
-        "text": "while2.md"
+        "title": "The If condition",
+        "text": "simpleIf.md"
       }
     ],
     "intro": {
@@ -46,10 +26,10 @@
     "hidefinish": true,
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
-    "uieditorpath": "/root/",
+    "uieditorpath": "/root/for-loops",
     "exclusionPatterns": [
-      "*.test.js",
-      "./*"
+      "./package*",
+      "*.test.js"
     ]
   },
   "backend": {
