@@ -11,8 +11,5 @@ Run `node person.js`{{execute}} to execute your code.
 Example of expected result :
 
 <pre class="file">
-{
-  name: "Paul",
-  age: 32  
-}
+{ name: "Paul", age: 32 }
 </pre>

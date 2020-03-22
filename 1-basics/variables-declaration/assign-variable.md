@@ -6,7 +6,7 @@
 - Now assign the content of `b` to `a`
 - Display the value of `a` 
 
-Run `node assign-variables.js`{{execute}} to execute your code.
+Run `node assign-variable.js`{{execute}} to execute your code.
 
 You should see this :
 
