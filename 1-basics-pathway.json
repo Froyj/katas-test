@@ -27,6 +27,11 @@
       "course_id": "operators",
       "title": "Les opérateurs arithmétiques",
       "description": "Maths!"
+    ,}
+    {
+      "course_id": "variables-declaration",
+      "title": "Variables : Declarations and assignment",
+      "description": "Create some variables and and assign them values"
     }
   ]
 }
