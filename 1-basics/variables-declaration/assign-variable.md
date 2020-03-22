@@ -1,4 +1,3 @@
-# 
 
 - Open the file `assign-variable.js`{{open}}
 - Declare a variable `a` and assign value `5` to it

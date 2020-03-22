@@ -15,7 +15,19 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "sayHelloWorld.md"
+      },
+      {
+        "title": "Parameters",
+        "text": "greet.md"
+      },
+      {
+        "title": "Parameters : default values",
+        "text": "greet.md"
+      },
+      {
+        "title": "Step 1",
+        "text": "sayHelloWorld.md"
       }
     ],
     "intro": {

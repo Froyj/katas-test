@@ -7,8 +7,7 @@ Complete the loop so it can print every number from 1 to 10 in the terminal.
 Once you want to test your solution, run `node countdown`{{execute}} to execute your code.
 
 Your result should be : 
-
-`
+<pre class='file'>
 9
 8
 7
@@ -18,4 +17,4 @@ Your result should be :
 3
 2
 1
-`
+</pre>

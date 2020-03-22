@@ -8,7 +8,7 @@ Once you want to test your solution, run `node counter`{{execute}} to execute yo
 
 Your result should be : 
 
-`
+<pre class="file">
 1
 2
 3
@@ -19,4 +19,4 @@ Your result should be :
 8
 9
 10
-`
+</pre>

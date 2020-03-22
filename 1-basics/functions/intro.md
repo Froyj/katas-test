@@ -1,6 +1,6 @@
 # Loops 
 
-Everytime you need to do a reptitive task, you will probably need a loop to solve it
+Everytime you need to do a repetitive task, you will probably need a loop to solve it
 
 The goal here is to manipulate different kinds of loops. 
 

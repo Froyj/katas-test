@@ -14,6 +14,22 @@
     },
     "steps": [
       {
+        "title": "Complete the loop",
+        "text": "for1.md"
+      },
+      {
+        "title": "Complete the loop",
+        "text": "for2.md"
+      },
+      {
+        "title": "Complete the loop",
+        "text": "for3.md"
+      },
+      {
+        "title": "Complete the loop",
+        "text": "for4.md"
+      },
+      {
         "title": "Step 1",
         "text": "step1.md"
       },
