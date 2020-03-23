@@ -1,5 +1,3 @@
-# Build an object from a word
-
 Open the file `charAllFoundAt.js`{{open}}
 
 The function charAllFoundAt.js takes one word as a string in parameter and must return an object in which : 
