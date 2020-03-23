@@ -44,7 +44,7 @@
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "exclusionPatterns": [
-      "*"
+      "./*"
     ]
   },
   "backend": {
