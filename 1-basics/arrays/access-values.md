@@ -1,5 +1,5 @@
 
-- Open the file `person.js`
+- Open the file `person.js`{{open}}
 - Declare an array `person` with the following elements :
   - `'Bob'`
   - `'Ray'`
