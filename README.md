@@ -13,7 +13,7 @@ Ce que n'est pas un kata :
  - un problème d'algorithmie complexe (exemple: codewars)
  - un quizz
 
-Plusieurs type de compétences peuvent être entraînée pour les katas
+Plusieurs types de compétences peuvent être entraînées pour les katas
 - Ecrire la syntaxe correctement
 - Débug du code
 - Lecture de code
@@ -30,15 +30,16 @@ Les deux principales organisations imaginées sont
     - Courses  : choix du sujet
     - Scénarios: choix du niveau de difficulté
 
-Je serais plutôt en faveur de l'organisation par sujet qui permet d'organiser de manière plus cohérente les notions et les types d'exercices au sein de chaque scénario.
+L'organisation par sujet qui permet d'organiser de manière plus cohérente les notions et les types d'exercices au sein de chaque scénario.
 
 Dans tous les cas il est important de lister en page d'intro les scénarios et notions qui constitueront les prérequis. 
 
 ## Les différentes formats de kata
 
-### Vérifier la syntaxe
+### Compléter la syntaxe
 
-
+Une portion de code est déjà disponible, il faut la compléter pour qu'elle réalise ce qui est demandé.
+Ce type d'exercice vise à se remémorer et assimiler la syntaxe.
 
 ### Trouver le résultat
 
@@ -66,25 +67,9 @@ Ensemble d'instruction scénarisées où on apporte un contexte qui apporter du 
 - clipboard
 - lancement de scripts (forground et/ou background) au lancement du scenario et/ou après chaque étape du scénario
 
-## Sujets de katas éventuels et plus approfondis
+## Sujets de katas éventuels
 
+- exercices de débugage de code pour les différentes notions présentées
+- exercice de lecture et interprétation du code (donner la bonne réponse)
 - design patterns 
-
-# Etat du repo
-
-Base 
-- For loop base : 5 exercices
-- Fonctions : pas d'exercices
-- Variables : 2 exercices
-- Conditions : pas d'exercices
-- Opérateurs : en cours 
-
-Intermédiaire :
-- Boucles: 3 exercices (avec tests)
-- Parcours de string:  4 exercices (avec tests)
-- Formatage de données: 2 exercices (avec tests)
-
-## Plan :
-
-- Faire un parcours avec contexte (Réalisation d'un petit jeu). Réutilisation possible du code écris au court de la série d'exercice
 

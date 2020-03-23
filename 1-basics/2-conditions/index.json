@@ -1,8 +1,8 @@
 {
-  "title": "Loops Katas",
-  "description": "doin'loops",
+  "title": "If-else conditions",
+  "description": "Execute code under conditions",
   "difficulty": "Beginner",
-  "time": "20 min",
+  "time": "10 min",
   "details": {
     "assets": {
       "host01": [

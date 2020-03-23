@@ -5,4 +5,4 @@ Open the file `add.js`{{open}}
 - Your function must print the result of `a + b` in your console
 - Call the function `add` with two numbers arguments of your choice
 
-Run `node add` at any time to test your code
+Run `node add`{{execute}} at any time to test your code

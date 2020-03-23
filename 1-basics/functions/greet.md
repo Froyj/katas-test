@@ -5,7 +5,7 @@ Open the file `greet.js`{{open}}
 - Your function must take one parameter `name`
 - Call the function `greet` with your name as the argument
 
-Run `node greet` at any time to tet your code
+Run `node greet`{{execute}} at any time to tet your code
 
 Example output :
 `Hello`

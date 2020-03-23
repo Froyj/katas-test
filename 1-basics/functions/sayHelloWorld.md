@@ -7,4 +7,4 @@ Open the file `sayHelloWorld.js`{{open}}
 You should see :
   `Hello World!`
 
-Run `node sayHelloWorld` at any time to tet your code
+Run `node sayHelloWorld`{{execute}} at any time to tet your code
