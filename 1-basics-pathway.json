@@ -4,27 +4,27 @@
   "icon": "fa-katacoda",
   "courses": [
     {
-      "course_id": "arrays",
+      "course_id": "4-arrays",
       "title": "Arrays",
       "description": "Manipulate arrays"
     },
     {
-      "course_id": "loops",
+      "course_id": "3-loops",
       "title": "Loops",
       "description": "Get used to the syntaxe and practice loops"
     },
     {
-      "course_id": "functions",
+      "course_id": "5-functions",
       "title": "Functions",
       "description": "Learn to create reusable piece of code"
     },
     {
-      "course_id": "conditions",
+      "course_id": "2-conditions",
       "title": "Control structures",
       "description": "To be or not to be (true)"
     },
     {
-      "course_id": "variables-declaration",
+      "course_id": "1-variables-declaration",
       "title": "Variables",
       "description": "Create, modify and access values with variables"
     }
