@@ -1,4 +1,5 @@
-# Conditions 
+# Prerequisites : 
 
-
+Basic knowledge of :
+- variables
 
