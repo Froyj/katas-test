@@ -5,8 +5,6 @@ Open the file `sayHelloWorld.js`{{open}}
 - Call the function `sayHelloWorld`
 
 You should see :
-<pre class="file">
-  Hello World!
-</pre>
+  `Hello World!`
 
-Run `node sayHelloWorld.js` at any time to tet your code
+Run `node sayHelloWorld` at any time to tet your code

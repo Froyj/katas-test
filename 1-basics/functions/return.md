@@ -4,6 +4,8 @@
 - Your function must return the opposite of this value
 - Call your function with a number parameter of your choice
 
+Run `node return`{{execute}} to test your code
+
 
 
 
