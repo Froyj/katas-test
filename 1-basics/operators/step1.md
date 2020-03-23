@@ -1,5 +1,5 @@
 # Calculate the average 
 
-Open ``{{open}}
+Open the file ``{{open}}
 
 The function getAverage() receive three parameters

@@ -1,0 +1,12 @@
+
+- Declare an array `favoriteArtists` containing the following values :
+  - `John Coltrane`
+  - `Art Blakey`
+  - `Mariah Carey`
+  - `Hank Mobley`
+  - `McCoy Tyner`
+  - `Pat Metheny`
+  - `Beyonce`
+- Replace the element at index 2 with `Christian Scott`
+- Replace the value `Beyonce` with `Robert Glasper`
+- Display `favoriteArtists` so that you can check that values are properly replaced

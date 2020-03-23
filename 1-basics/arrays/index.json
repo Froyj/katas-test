@@ -1,6 +1,6 @@
 {
-  "title": "Loops Katas",
-  "description": "doin'loops",
+  "title": "Arrays",
+  "description": "Interacting with arrays",
   "difficulty": "Beginner",
   "time": "20 min",
   "details": {
@@ -14,20 +14,20 @@
     },
     "steps": [
       {
-        "title": "Function: declaration",
-        "text": "sayHelloWorld.md"
+        "title": "Declaring arrays",
+        "text": "declarations.md"
       },
       {
-        "title": "Parameters",
-        "text": "greet.md"
+        "title": "Accessing values",
+        "text": "access-values.md"
       },
       {
-        "title": "Parameters : default values",
-        "text": "greet.md"
+        "title": "Modifying values",
+        "text": "modify-values.md"
       },
       {
-        "title": "Step 1",
-        "text": "sayHelloWorld.md"
+        "title": "Adding new values to array",
+        "text": "add-values.md"
       }
     ],
     "intro": {

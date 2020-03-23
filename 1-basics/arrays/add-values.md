@@ -1,0 +1,8 @@
+- Declare an array `shoppingList` with the following elements :
+  - `'egg'`
+  - `'bread'`
+  - `'milk'`
+- Add a new element `'tomatoes'` to `shopping list` using *push* method
+- Push new elements `'leeks'`, `'potatoes'`, `'onions'`
+- Print `shoppingList` in your console  
+- Try change the order in which you push elements and observe the difference in your console
