@@ -1,4 +1,5 @@
 
+- Open the file `artists.js`{{open}}
 - Declare an array `favoriteArtists` containing the following values :
   - `'John Coltrane'`
   - `'Art Blakey'`
@@ -10,3 +11,4 @@
 - Replace the element at index 2 with `Christian Scott`
 - Replace the value `Beyonce` with `Robert Glasper`
 - Display `favoriteArtists` so that you can check that values are properly replaced
+- Run `node artists`{{execute}} to see the result.
