@@ -58,23 +58,17 @@ L'avantage de ce genre d'exercice est qu'il est généralement facile de les tes
 Ce sont plutôt des exercices qui devraient être proposés à la fin d'un parcours
 Ensemble d'instruction scénarisées où on apporte un contexte qui apporter du sens sur ce que l'on fait, tout en demandant à l'apprenant de remettre en oeuvre les notions apprises.
 
-## Katacoda : fonctionnalités 
+## A propos de Katacoda : fonctionnalités 
 
 - quizz
 - mise en forme en markdown
 - vérification pour passer à l'étape suivante
 - clipboard
 - lancement de scripts (forground et/ou background) au lancement du scenario et/ou après chaque étape du scénario
-- création de 
-
-
 
 ## Sujets de katas éventuels et plus approfondis
 
 - design patterns 
-
-
-
 
 # Etat du repo
 

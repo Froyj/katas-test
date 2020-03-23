@@ -24,11 +24,6 @@
       "description": "To be or not to be (true)"
     },
     {
-      "course_id": "operators",
-      "title": "Operators",
-      "description": "Maths, logic and few other things"
-    },
-    {
       "course_id": "variables-declaration",
       "title": "Variables",
       "description": "Create, modify and access values with variables"
