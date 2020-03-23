@@ -1,8 +1,13 @@
 {
-  "title": "Fondamentaux",
-  "description": "Consolider les notions de bases par la pratique",
+  "title": "Basics",
+  "description": "Practice your basics knowledge",
   "icon": "fa-katacoda",
   "courses": [
+    {
+      "course_id": "arrays",
+      "title": "Arrays",
+      "description": "Manipulate arrays"
+    },
     {
       "course_id": "loops",
       "title": "Loops",

@@ -1,22 +1,22 @@
 {
-  "title": "Intermédiaire",
-  "description": "Utilisations des notions de bases pour résoudre des problèmes",
+  "title": "Intermediate",
+  "description": "Use of basics concepts to solve simple problems",
   "icon": "fa-katacoda",
   "courses": [
     {
       "course_id": "loops",
-      "title": "Boucles",
-      "description": "Utilisation des boucles dans des contextes plus complexes"
+      "title": "Loops",
+      "description": "Practice loops to solve recurrent problems"
     },
     {
       "course_id": "iterate-strings",
-      "title": "Parcourir et manipuler des chaînes de caractères",
-      "description": "Utilisation des boucles pour traiter des chaînes de caractères"
+      "title": "Operate on strings",
+      "description": "Learn to loop over string"
     },
     {
       "course_id": "format-data",
-      "title": "Formatage de données",
-      "description": "S'exercer à restructurer ses données"
+      "title": "Formatting data",
+      "description": "Restructure your data"
     }
   ]
 }
