@@ -1,8 +1,8 @@
 {
-  "title": "Loops Katas",
-  "description": "doin'loops",
+  "title": "Functions",
+  "description": "Functions basics",
   "difficulty": "Beginner",
-  "time": "20 min",
+  "time": "15 min",
   "details": {
     "assets": {
       "host01": [
@@ -24,10 +24,6 @@
       {
         "title": "Parameters : default values",
         "text": "greet.md"
-      },
-      {
-        "title": "Step 1",
-        "text": "sayHelloWorld.md"
       }
     ],
     "intro": {
