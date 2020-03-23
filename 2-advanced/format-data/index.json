@@ -14,12 +14,12 @@
     },
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Converting an array into an object",
+        "text": "menAndWomen.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Converting object into an array",
+        "text": "obtToArray.md"
       }
     ],
     "files": [
